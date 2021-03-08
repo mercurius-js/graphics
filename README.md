@@ -4,16 +4,38 @@
 
 > Logo for [Mercurius](https://github.com/mercurius-js/mercurius).
 
-icon | horizontal | stacked
-- | - | -
-![mercurius-icon.png](mercurius-icon.png) | ![mercurius-horizontal.png](mercurius-horizontal.png) | ![mercurius-stacked.png](mercurius-stacked.png)
+<table>
+  <tr>
+    <th>icon</th>
+    <th>horizontal</th>
+    <th>stacked</th>
+  </tr>
+  <tr>
+    <td><img src="mercurius-icon.svg" width="75"></td>
+    <td><img src="mercurius-horizontal.svg" width="150"></td>
+    <td><img src="mercurius-stacked.svg" width="90"></td>
+  </tr>
+</table>
 
 ### Color Palette
 
-&nbsp; | RGB | Hex
-- | - | -
-<span style="color:rgb(255, 161, 26);">&#9679;</span> | (255, 161, 26) | #FFA11A
-<span style="color:rgb(134, 79, 0);">&#9679;</span> | (134, 79, 0) | #864f00
+<table>
+	<tr>
+		<th></th>
+		<th width="150">RGB</th>
+		<th width="150">Hex</th>
+	</tr>
+  <tr>
+		<td><span style="color:rgb(255, 161, 26);">&#9679;</span></td>
+		<td>(255, 161, 26)</td>
+		<td>#FFA11A</td>
+	</tr>
+  <tr>
+    <td><span style="color:rgb(134, 79, 0);">&#9679;</span></td>
+		<td>(134, 79, 0)</td>
+		<td>#864F00</td>
+  </tr>
+</table>
 
 ### Typeface
 
